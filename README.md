@@ -14,7 +14,7 @@ I'm a self-taught developer with a passion for software development and sustaina
 
 **Key Projects:**
 - 🌐 **Capstone Project: Dealership Ratings** - A showcase of my expertise in Python, Django, and React, integrated with IBM Cloud APIs.
-- 🛠️ **More Projects** - Check out my diverse portfolio [here](https://github.com/IanKlein6).
+- 🌟 **Ian Klein's Portfolio Website** - A modern, responsive web application built with React and SCSS, demonstrating my web development skills and professional journey. This portfolio is a testament to my ability to create engaging, dynamic, and user-friendly web experiences. Check out the website [here](https://ianklein.netlify.app/).
 
 **Skills:**
 - 💻 **Programming**: Python, Django, React, JavaScript
@@ -24,6 +24,7 @@ I'm a self-taught developer with a passion for software development and sustaina
 
 **Connect with Me:**
 - LinkedIn: [Ian Klein](https://www.linkedin.com/in/ianklein66)
+- [Portfolio Website](https://ianklein.netlify.app/)
 
 ---
 
