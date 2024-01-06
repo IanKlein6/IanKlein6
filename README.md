@@ -15,7 +15,7 @@ I'm a self-taught developer with a passion for software development and sustaina
 **Key Projects:**
 - 🌐 **Capstone Project: Dealership Ratings** - A showcase of my expertise in Python, Django, and React, integrated with IBM Cloud APIs.
 - 🌟 **Ian Klein's Portfolio Website** - A modern, responsive web application built with React and SCSS, demonstrating my web development skills and professional journey. This portfolio is a testament to my ability to create engaging, dynamic, and user-friendly web experiences. Check out the website [here](https://ianklein.netlify.app/).
-- 🛒 Shopping React App - A Dockerized React application for tracking shopping expenses with ease. Showcases my skills in React and containerization, ensuring seamless setup and usage. Check it live [here](https://reactshoppingappianklein.netlify.app/).
+- 🛒 **Shopping React App** - A Dockerized React application for tracking shopping expenses with ease. Showcases my skills in React and containerization, ensuring seamless setup and usage. Check it live [here](https://reactshoppingappianklein.netlify.app/).
   
 **Skills:**
 - 💻 **Programming**: Python, Django, React, JavaScript
