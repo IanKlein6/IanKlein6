@@ -20,8 +20,8 @@ I'm a self-taught developer with a passion for software development and sustaina
 **Skills:**
 - 💻 **Programming**: Python, Django, React, JavaScript
 - 🌍 **Web Technologies**: HTML, CSS, Bootstrap
-- 🐳 **DevOps**: Docker, Kubernetes
-- ⚙️ **Soft Skills**: Problem-solving, adaptability, teamwork
+- 🐳 **DevOps**: Docker, Kubernetes, Cloud
+- ⚙️ **Soft Skills**: Problem-solving, Constant Learning, Adaptability, Teamwork
 
 **Connect with Me:**
 - LinkedIn: [Ian Klein](https://www.linkedin.com/in/ianklein66)
