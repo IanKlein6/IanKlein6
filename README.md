@@ -20,7 +20,7 @@ I'm a self-taught developer with a passion for software development and sustaina
 **Skills:**
 - 💻 **Programming**: Python, Django, React, JavaScript
 - 🌍 **Web Technologies**: HTML, CSS, Bootstrap
-- 🐳 **DevOps**: Docker, Kubernetes, Cloud
+- 🐳 **Cloud**: Docker, Kubernetes, IBM Cloud
 - ⚙️ **Soft Skills**: Problem-solving, Constant Learning, Adaptability, Teamwork
 
 **Connect with Me:**
