@@ -13,6 +13,7 @@ I'm a self-taught developer with a passion for software development and sustaina
 - 📚 Continuous learning and applying my knowledge in practical settings.
 
 **Key Projects:**
+- 🔨 **[CAP: Track](https://github.com/IanKlein6/Time-Sheet-App)** - A vital part of the Construction Application Platform (CAP), designed to revolutionize project management and time tracking in the construction industry. This project underscores my commitment to enhancing operational efficiency and accuracy across job sites.
 - 🌐 **[Capstone Project: Dealership Ratings](https://github.com/IanKlein6/Capstone-Project-Dealership-Ratings)** - A showcase of my expertise in Python, Django, and React, integrated with IBM Cloud APIs.
 - 🌟 **[Ian Klein's Portfolio Website](https://github.com/IanKlein6/Portfolio-Website-Ian-Klein)** - A modern, responsive web application built with React and SCSS, demonstrating my web development skills and professional journey. This portfolio is a testament to my ability to create engaging, dynamic, and user-friendly web experiences. Check out the website [here](https://ianklein.netlify.app/).
 - 🛒 **[Shopping React App](https://github.com/IanKlein6/Shopping-Calculator-App-React)** - A Dockerized React application for tracking shopping expenses with ease. Showcases my skills in React and containerization, ensuring seamless setup and usage. Check it live [here](https://reactshoppingappianklein.netlify.app/).
