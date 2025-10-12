@@ -1,4 +1,5 @@
-# Hi there, I'm Ian Klein! 
+# Hey there, I'm Ian.
+## Welcome to my git.  
 
 **Full-Stack Software Developer | Advocate for Sustainable Solutions**
 
