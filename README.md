@@ -1,4 +1,4 @@
-# Hey there, I'm Ian. Welcome to my Git. 
+# Hey there, I'm Ian
 
 **Full-Stack Software Developer | Advocate for Sustainable Solutions**
 
