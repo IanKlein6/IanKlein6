@@ -31,7 +31,7 @@ Currently seeking opportunities where I can contribute to meaningful projects th
 
 ## Featured Projects
 
-### [Student Records Management System](https://github.com/IanKlein6/student-records-system)
+### [Student Records Management System](https://github.com/IanKlein6/Student-Records-App-MT)
 
 A comprehensive FastAPI-based system for managing student exam records, tracking attempts, and coordinating scheduling. Built as a proof-of-concept to replace Excel-based workflows with automated, scalable architecture.
 
