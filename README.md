@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:008000,100:34b870&height=140&section=header&text=Ian%20Klein&fontColor=b7e4c7&fontSize=42&fontAlignY=65" width="100%"/>
 
-### Full-Stack Developer · Building Technology That Gives Back
+### Full-Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianklein66)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d2818?style=flat-square&logo=vercel&logoColor=b7e4c7)](https://ianklein.netlify.app/)
@@ -12,10 +12,7 @@
 
 ---
 
-> *I started my career with timber, straw, and stone — building physical systems designed to last and be meaningful.  
-> Now I build virtual systems. Different materials yet same principle: build things that last and are meaningful.*
-
-I'm a self-taught full-stack developer with roots in **ecological construction**. That background shapes how I write code — I care about what I'm building and why, not just how. I'm drawn to projects in **energy sustainability**, **research tooling**, and **systems that replace inefficiency with clarity**.
+I'm a self-taught full-stack developer with roots in **ecological construction**. That background shapes how I write code. I care about what I'm building and why, not just how. I'm drawn to projects in **energy sustainability**, **research tooling**, and **systems that replace inefficiency with clarity**.
 ```python
 ian = {
     "stack":      ["Python", "FastAPI", "Django", "React", "PostgreSQL", "Docker"],
@@ -51,9 +48,7 @@ ian = {
 ## Projects That Matter to Me
 
 ### 🗂 [Student Records Management System](https://github.com/IanKlein6/Student-Records-App-MT)
-> A proof-of-concept build to eliminate a real world bottleneck: replacing manual Excel workflows at a local University with a production-ready web application. 
-
-This one isn't flashy, but it's the kind of project I care about: solving a genuine problem for real people, built with proper architecture and room to grow.
+> A proof of concept build to eliminate a real world bottleneck: replacing manual Excel workflows at a local University with a production ready web application. 
 
 - Three-tier architecture: **FastAPI → Tortoise ORM → PostgreSQL**
 - Smart archive/restore with full audit logging
@@ -67,9 +62,7 @@ This one isn't flashy, but it's the kind of project I care about: solving a genu
 ---
 
 ### 🔬 [Sample Blindfolder 2.0](https://github.com/IanKlein6/Sample-Blindfolder-2.0)
-> Built for a doctoral research team — automating microscopy file blinding to reduce bias and protect experimental integrity.
-
-Research that matters starts with data you can trust. This tool makes that easier.
+> Built for a doctoral research team: automating microscopy file blinding to reduce bias and protect experimental integrity.
 
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -78,9 +71,7 @@ Research that matters starts with data you can trust. This tool makes that easie
 ---
 
 ### 🏗 [CAP: Track](https://github.com/IanKlein6/CAP-Track)
-> Time-tracking and project management for construction — bringing transparency to labour costs and team productivity.
-
-A nod to my roots. I know this industry's pain points firsthand.
+> Time tracking and project management for construction
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -104,8 +95,8 @@ A nod to my roots. I know this industry's pain points firsthand.
 
 <div align="center">
 
-*I'm looking for teams building technology that makes a difference.*  
-*If that's you — let's talk.*
+*Building technology that makes a difference*  
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianklein66)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d2818?style=flat-square&logo=vercel&logoColor=b7e4c7)](https://ianklein.netlify.app/)
